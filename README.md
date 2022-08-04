@@ -7,6 +7,7 @@ Perform Text Classification on the data. The tweets have been pulled from Twitte
 Columns:
 
 1) Location
+
 2) Tweet At
-3) Original Tweet
-4) Label
+4) Original Tweet
+5) Label
