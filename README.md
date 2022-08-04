@@ -9,5 +9,6 @@ Columns:
 1) Location
 
 2) Tweet At
-4) Original Tweet
-5) Label
+
+3) Original Tweet
+4) Label
